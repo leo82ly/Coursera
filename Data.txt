@@ -1,0 +1,9 @@
+Data:
+
+To build our model, we have to use different types of data. In general, we will need the followings:
+?	Neighborhoods: the data to define the neighborhoods of Boston area. For each neighborhood, we may also need the zip code that we can use to link other datasets later
+?	Geographic coordinate: for each zipcode or neighborhood, we also need to figure out the latitude and longitude which we can use to collect details from Foursqure 
+?	Number of restaurants: number per neighborhood which we can get from Foursqure 
+?	Population per each neighborhood: we will use it to normalize data such as number of restaurants
+?	Housing price: cost is an important factor of the new restaurants. It¡¯s difficult to collect data for business location rent price but we will use housing price and normalize i
+?	Average reviews rate: we will use it to build the factor which measures the competition in each neighborhood 

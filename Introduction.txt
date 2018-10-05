@@ -1,0 +1,7 @@
+Introduction/Business Problem£º
+
+There are thousands of restaurants opened in Boston nowadays. In recent years, as the population is still growing, business man sees potential opportunities to open new restaurants and make profits.
+
+However, there are nearly 30 neighborhoods in Boston area. Each of them has different situations, such as different population, number of existing restaurants, house price and income. So the question is that what the best area or neighborhood to open the new restaurants and how to make the decisions.
+
+In this project, we would like to use the existing data we can collect from internet for free to build our simple model and help business owner to support their decision-making process. The good choice of the new restaurant should put multiple factors into considerations. 
